@@ -7,7 +7,7 @@
 # Scroll Layout ( vertical - 수직 )
 
 ### 1. ScrollView 안에는 단 하나의 위젯만 넣을 수 있기 때문에 Layout(vertical-수직)을 넣고 layout 밑에 여러 위젯을 넣는 방식을 주로 사용한다.
-| 이 Layout안에 스크롤되어 나타날 정보를 넣을 것!
+    이 Layout안에 스크롤되어 나타날 정보를 넣을 것!
 
 ### 2. 상단, 하단 이동하기(버튼 클릭)
 + 맨위로 갈 때 : scrollView.fullScroll(ScrollView.FOCUS_UP)
