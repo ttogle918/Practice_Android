@@ -1,7 +1,7 @@
 사용자 목록을 ListView로 보여주는 앱
 
 * activity_main.xml, MainActivity.java, ListViewItem.java, ListViewAdapter.java 보기
-* dapter에 만들어 놓은 addItem() 함수를 직접 사용하여 데이터 추가
+* adapter에 만들어 놓은 addItem() 함수를 직접 사용하여 데이터 추가
 
 -------
 ### 순서
