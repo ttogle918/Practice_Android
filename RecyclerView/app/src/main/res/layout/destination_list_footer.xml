@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#00000000"
+    android:divider="#000000"
+    android:dividerPadding="1dp"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:showDividers="beginning|end">
+
+    <Button
+        android:id="@+id/report_dest"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#dbe9f6"
+        android:text="도착보고"
+        android:textColor="#fff"
+        android:textStyle="bold" />
+</LinearLayout>
